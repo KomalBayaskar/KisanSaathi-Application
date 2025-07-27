@@ -16,3 +16,5 @@ Real-Time Data Access: Integrates with APIs like Agmarknet or eNAM for mandi pri
 Voice Interaction: Uses speech-to-text (STT) and text-to-speech (TTS) for easy communication.
 Simple UI: Designed for farmers with minimal tech literacy.
 Offline Support: (If implemented) helps even in low-connectivity areas using Firebase.
+
+
